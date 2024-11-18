@@ -19,6 +19,7 @@ body {
 
 .avatar {
     width: 45%;
+    height: auto;
     border-radius: 28px;
     box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.5);
 }
