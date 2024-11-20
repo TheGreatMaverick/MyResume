@@ -15,6 +15,7 @@ body {
 
 .info-text {
     margin-left: 40px;
+    float: left;
 }
 
 .avatar {
